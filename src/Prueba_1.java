@@ -2,7 +2,7 @@ public class Prueba_1{
 
     public static void main(String[] args) {
 
-        Empleados trabajador1=new Empleados("Paco");
+        Empleados trabajador1=new Empleados("Paco rico");
 
         Empleados trabajador2=new Empleados("Ana");
 
